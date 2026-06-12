@@ -1,0 +1,16 @@
+EmployeeID,Gender,Department,Age,Experience,Salary,Attendance,RemoteWork,Performance
+1001,Male,IT,25,2,5500,95,Yes,High
+1002,Female,HR,29,5,6200,88,No,Medium
+1003,Male,Finance,35,10,8500,92,Yes,High
+1004,Female,IT,27,3,5800,85,Yes,Medium
+1005,Male,Marketing,31,7,7200,80,No,Low
+1006,Female,Finance,,8,7800,90,Yes,High
+1007,Male,HR,24,1,4800,70,No,Low
+1008,Female,Marketing,30,6,6900,87,Yes,Medium
+1009,Male,IT,28,4,6100,93,Yes,High
+1010,Female,Finance,40,15,9800,96,No,High
+1011,Male,HR,26,2,5200,75,No,Low
+1012,Female,IT,32,8,7600,89,Yes,High
+1013,Male,Marketing,29,5,6800,,Yes,Medium
+1014,Female,Finance,36,12,9000,94,No,High
+1015,Male,IT,27,3,5900,82,Yes,Medium

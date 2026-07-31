@@ -1,4 +1,5 @@
 berisi dataset dan model
+
 note:
 Kesimpulan keseluruhan dari seluruh pembahasan kita adalah membangun sistem trading hybrid (gabungan LightGBM + LLM) secara Rp0 adalah strategi terbaik dan paling realistis saat ini.
 Berikut adalah rangkuman cetak biru (blueprint) sistem Anda:
